@@ -4,6 +4,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=salimyaro&show_icons=true&theme=vision-friendly-dark) 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@salimyaro&theme=vision-friendly-dark)](https://github.com/salimyaro/github-readme-stats)
+
 [![Codewars](https://www.codewars.com/users/salimyaro/badges/large)](https://www.codewars.com/users/salimyaro)
+
 
 ![Profile views](https://gpvc.arturio.dev/salimyaro)
